@@ -1,5 +1,4 @@
-
-name: Feature
+name: Master workflow
 
 on:
   push:
