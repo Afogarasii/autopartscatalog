@@ -1,9 +1,8 @@
-
-name: Feature workflow
+name: Master workflow
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 
 env:
